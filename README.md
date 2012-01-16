@@ -1,0 +1,1 @@
+# jQuery accordionize is a jQuery accordion plugin
